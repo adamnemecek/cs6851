@@ -1,3 +1,7 @@
+/*
+ * Partially persistent linked list.
+ */
+
 #include <algorithm>
 #include <map>
 #include <iostream>
